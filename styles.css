@@ -108,7 +108,7 @@ img{
      border-radius: 16px;
 }
 .cause-card-content{
-    width: 50%;
+    width: 59.31%;
     text-align: left;
 }
 .cause-card-img{
@@ -134,19 +134,20 @@ img{
 }
 
 /* inspiration */
-.font-cng p{
-     font-family: "Azeret Mono", monospace;
-     font-weight: 200;
-  
-}
+
 .inspire{
     width:87.5% ;
      text-align: center;
     margin:50px auto 48px auto;
 }
-
+.font-cng p{
+     font-family: "Azeret Mono", monospace;
+     font-weight: 200;
+     margin: 10px 200px;
+  
+}
 iframe{
-    width:800px;
+    width: 77.45%;
      height:500px;
      border: .01px solid #c4bfbf;
      padding: 32px;
@@ -160,6 +161,7 @@ iframe:hover{
      box-shadow: 0px 5px 5px #575555;
 
 }
+
 
 /* target */
 
@@ -219,6 +221,9 @@ iframe:hover{
    
     margin-bottom: 0px;
 
+}
+.footer p{
+    margin-left: 10px;
 }
 
 .footer-img img{
