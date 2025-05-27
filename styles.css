@@ -30,7 +30,7 @@ img{
    gap: 10px;
    padding: 17px 24px;
    border-radius: 10px;
-   background:linear-gradient(#FFA500,#FFD447);
+   background:linear-gradient(90deg,#FFA500,#FFD447);
    border: 1px solid #FFD447;
    box-shadow: 0px 5px 5px #acabab;
    transition: .4s;
@@ -39,10 +39,10 @@ img{
    
 }
 .btn:hover{
-    background:linear-gradient(#fa7203,#f8cb37);
+    background:linear-gradient(#FFA500,#FFD447);
      border: 1px solid #f8cb37;
      box-shadow: 0px 5px 5px #2b2a2a;
-     color: #FFFFFF;
+     color: #5a4d02;
      transition: .4s;
 
 }
