@@ -30,6 +30,7 @@
 iframe{
     width:500px;
      height:400px;
+     padding: 20px;
 }
 .target-card-container{
   flex-direction: column;
@@ -97,7 +98,7 @@ iframe{
 iframe{
     width:350px;
      height:300px;
-     padding: 10px;
+     padding: 15px;
 }
 .footer-img img{
     width: 10px;
