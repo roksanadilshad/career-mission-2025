@@ -202,9 +202,10 @@ iframe:hover{
     color: #0D1321;
     font-size: 16px;
     transition: .5s;
+    font-weight: bold;
 }
 .target-card a:hover{
-    color: #ffffff;
+    color: #6288da;
 }
 .target-card img{
     width: 100px;
@@ -224,6 +225,7 @@ iframe:hover{
 }
 .footer p{
     margin-left: 10px;
+    font-weight: bold;
 }
 
 .footer-img img{
