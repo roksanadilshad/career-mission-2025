@@ -1,0 +1,113 @@
+/* laptop */
+@media screen and (max-width:1200px){
+    .footer{
+    
+    padding: 4px 100px 0px 100px;
+}
+
+
+}
+/* tablet */
+@media screen and (max-width:1024px){
+.btn{
+   font-size: 15px;
+   padding: 10px 15px;
+}
+.nav-bar{
+    padding:5px 100px;
+    
+}
+.heading{
+   margin: 100px;
+   padding: 20px 30px;
+   
+}
+
+
+.heading-content h1{
+    font-size: 30px;
+}
+iframe{
+    width:500px;
+     height:400px;
+}
+.target-card-container{
+  flex-direction: column;
+ 
+}
+.target-card{
+     text-align: center;
+    width: 50%;
+}
+.target-card img{
+    width: 100px;
+     padding: 10px;
+}
+.footer p{   
+    
+    font-size: 12px;
+}
+.footer-img img{
+    width: 15px;
+}
+ .footer{
+    
+    padding: 2px 100px 0px 100px;
+}
+
+
+}
+/* phone */
+@media screen and (max-width:640px){
+.btn{
+   font-size: 15px;
+   padding: 5px 10px;
+}
+.nav-bar{
+    padding:5px 100px;
+    flex-direction: column;
+  
+    align-items: center;
+}
+.heading{
+   margin: 50px;
+   padding: 20px 30px;
+   
+}
+.cause-card{
+    flex-direction:column-reverse;
+}
+.cause-card-img{
+    width: 100%;
+}
+.cause-card-content{
+    width: 100%;
+   text-align: center;
+}
+.cause-card-content h3{
+   font-size: 20px;
+}
+.header-content h2{
+   font-size: 26px; 
+   
+}
+.header-content p{
+    font-size: 14px;
+}
+iframe{
+    width:350px;
+     height:300px;
+     padding: 10px;
+}
+.footer-img img{
+    width: 10px;
+}
+.footer{
+    
+    padding: 1px 100px 0px 100px;
+}
+.footer p{   
+    
+    font-size: 8px;
+}
+}
