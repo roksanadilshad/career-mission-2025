@@ -96,6 +96,7 @@ img{
     opacity: 70%;
     line-height: 26px;
     margin: 20px;
+   
 }
 
 .cause-card{
@@ -133,7 +134,11 @@ img{
 }
 
 /* inspiration */
-
+.font-cng p{
+     font-family: "Azeret Mono", monospace;
+     font-weight: 200;
+  
+}
 .inspire{
     width:87.5% ;
      text-align: center;
@@ -215,10 +220,7 @@ iframe:hover{
     margin-bottom: 0px;
 
 }
-.footer p{   
-    color: #575555;
-    font-size: 14px;
-}
+
 .footer-img img{
     width: 23px;
 }
